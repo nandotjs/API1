@@ -3,7 +3,7 @@
 
 need Git and Node.js
 
-```$ git clone <https://github.com/nandotjs/API1>```
+```$ git clone https://github.com/nandotjs/API1.git```
 
 ```$ npm install```
 
